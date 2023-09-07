@@ -34,7 +34,7 @@ a {
   text-decoration: none;
 }
 
-li a {
+ul li a {
     opacity: 0.5;
 }
 
@@ -94,6 +94,10 @@ button {
   border-radius: 4px;
 
   cursor: pointer;
+}
+
+button:hover {
+  background-color: #51a386;
 }
 
 footer {
